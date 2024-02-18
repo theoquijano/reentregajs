@@ -1,0 +1,182 @@
+[
+    {
+        "id": "monitor-01",
+        "titulo": "Monitor 19 Philips 60Hz",
+        "imagen": "./img/monitor/01.jpg",
+        "categoria": {
+            "nombre": "Monitor",
+            "id": "monitor"
+        },
+        "precio": 95990
+    },
+    {
+        "id": "monitor-02",
+        "titulo": "Monitor 22 Philips 75Hz",
+        "imagen": "./img/monitor/02.jpg",
+        "categoria": {
+            "nombre": "Monitor",
+            "id": "monitor"
+        },
+        "precio": 104990
+    },
+    {
+        "id": "monitor-03",
+        "titulo": "Monitor 22 Philips 75Hz FHD",
+        "imagen": "./img/monitor/03.jpg",
+        "categoria": {
+            "nombre": "Monitor",
+            "id": "monitor"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "monitor-04",
+        "titulo": "Monitor 20 Led LG",
+        "imagen": "./img/monitor/04.jpg",
+        "categoria": {
+            "nombre": "Monitor",
+            "id": "monitor"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "monitor-05",
+        "titulo": "Monitor 22 Led HDMI",
+        "imagen": "./img/monitor/05.jpg",
+        "categoria": {
+            "nombre": "Monitor",
+            "id": "monitor"
+        },
+        "precio": 108000
+    },
+    {
+        "id": "notebook-01",
+        "titulo": "Notebook Noblex 128Gb",
+        "imagen": "./img/notebooks/01.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 339990
+    },
+    {
+        "id": "notebook-02",
+        "titulo": "Notebook Aiwa 128Gb",
+        "imagen": "./img/notebooks/02.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 389990
+    },
+    {
+        "id": "notebook-03",
+        "titulo": "Notebook Lenovo 500Gb",
+        "imagen": "./img/notebooks/03.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 429990
+    },
+    {
+        "id": "notebook-04",
+        "titulo": "Notebook Noblex 256Gb",
+        "imagen": "./img/notebooks/04.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 523330
+    },
+    {
+        "id": "notebook-05",
+        "titulo": "Notebook CX 8gb i5",
+        "imagen": "./img/notebooks/05.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 554332
+    },
+    {
+        "id": "notebook-06",
+        "titulo": "Notebook Asus i3 256gb",
+        "imagen": "./img/notebooks/06.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 589000
+    },
+    {
+        "id": "notebook-07",
+        "titulo": "Notebook Bangho 240gb",
+        "imagen": "./img/notebooks/07.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 499990
+    },
+    {
+        "id": "notebook-08",
+        "titulo": "Notebook Lenovo 256Gb",
+        "imagen": "./img/notebooks/08.jpg",
+        "categoria": {
+            "nombre": "Notebooks",
+            "id": "notebooks"
+        },
+        "precio": 599990
+    },
+    {
+        "id": "placa-01",
+        "titulo": "Placa de Video Asus Gtx 1650",
+        "imagen": "./img/placas/01.jpg",
+        "categoria": {
+            "nombre": "Placas de video",
+            "id": "placas"
+        },
+        "precio": 249999
+    },
+    {
+        "id": "placa-02",
+        "titulo": "Placa de Video Asus Gt 1030",
+        "imagen": "./img/placas/02.jpg",
+        "categoria": {
+            "nombre": "Placas de video",
+            "id": "placas"
+        },
+        "precio": 130000
+    },
+    {
+        "id": "placa-03",
+        "titulo": "Placa de Video Nvidia Gtx 1650",
+        "imagen": "./img/placas/03.jpg",
+        "categoria": {
+            "nombre": "Placas de video",
+            "id": "placas"
+        },
+        "precio": 279999
+    },
+    {
+        "id": "placa-04",
+        "titulo": "Placa de Video Asus Gtx 1660",
+        "imagen": "./img/placas/04.jpg",
+        "categoria": {
+            "nombre": "Placas de video",
+            "id": "placas"
+        },
+        "precio": 384999
+    },
+    {
+        "id": "placa-05",
+        "titulo": "Placa de Video Gigabyte Rtx 4060",
+        "imagen": "./img/placas/05.jpg",
+        "categoria": {
+            "nombre": "Placas de video",
+            "id": "placas"
+        },
+        "precio": 499999
+    }
+]
